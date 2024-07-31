@@ -1,6 +1,9 @@
 ﻿# Tracker Crypto
+ 
 Стек
+
 FastAPI + pydantic, pydantic-settings, aiohttp, alru_cache
+
 React + axios, ant design, tailwind
 
 Инструкции
