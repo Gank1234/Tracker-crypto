@@ -12,5 +12,7 @@ uvicorn src.main:app --reload (обязательно находясь внут�
 Frontend:
 
 npm create vite@latest
+
 npm install
+
 npm run dev
